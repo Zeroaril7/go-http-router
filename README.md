@@ -1,3 +1,3 @@
 ## Learn Go
 
-This is part learn from Proggammer Zaman Now lecture
+This is part lesson from Proggammer Zaman Now lecture
